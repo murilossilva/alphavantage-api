@@ -5,6 +5,7 @@ Esse repositório faz uso de método get para extrair dados de uma [API](https:/
 <h2>Requirements</h2>
 Para inicializar [crie sua API Key](https://www.alphavantage.co/support/#api-key) totalmente gratuita pela própria plataforma da API. 
 
+
 Após a criação da API, faça a alteração da mesma no arquivo `.env-example`, juntamente do BASE_URL, que deve ser `https://www.alphavantage.co/query`
 para a realização de consultas. Ao término da operação altere o nome do arquivo para `.env` 
 
