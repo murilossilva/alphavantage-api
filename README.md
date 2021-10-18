@@ -4,7 +4,7 @@ Esse repositório faz uso de método get para extrair dados de uma [API](https:/
 
 <h2>Requirements</h2>
 
-Para inicializar crie sua [API Key](https://www.alphavantage.co/support/#api-key) totalmente gratuita pela própria [plataforma da API](https://www.alphavantage.co/support/#api-key). 
+Para inicializar crie sua [API Key](https://www.alphavantage.co/support/#api-key) totalmente gratuita pela própria plataforma da API.
 
 
 Após a criação da API, faça a alteração da mesma no arquivo `.env-example`, juntamente do BASE_URL, que deve ser `https://www.alphavantage.co/query`
@@ -15,8 +15,9 @@ O mesmo irá instalar os pacotes necessários para a utilização da API. Caso s
 ele irá instalar os pacotes necessários para o desenvolvimento e aprimoramento do programa.
 
 <h2>Execution</h2>
-No terminal é necessário acessar o diretório do projeto dentro do seu computador e importar a classe StockTimeSeries do arquivo main. Para isso digite `from main import StockTimeSeries`
+No terminal é necessário acessar o diretório do projeto dentro do seu computador e importar a classe StockTimeSeries do arquivo main. Para isso digite `from main import StockTimeSeries`.
 Depois disso já podemos instanciar a classe, atribuindo-a para alguma variável. Por exemplo:
+
 
 `var = StockTimeSeries()`
 
