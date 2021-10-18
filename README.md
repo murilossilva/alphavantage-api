@@ -15,6 +15,7 @@ O mesmo irá instalar os pacotes necessários para a utilização da API. Caso s
 ele irá instalar os pacotes necessários para o desenvolvimento e aprimoramento do programa.
 
 <h2>Execution</h2>
+
 No terminal é necessário acessar o diretório do projeto dentro do seu computador e importar a classe StockTimeSeries do arquivo main. Para isso digite `from main import StockTimeSeries`.
 Depois disso já podemos instanciar a classe, atribuindo-a para alguma variável. Por exemplo:
 
